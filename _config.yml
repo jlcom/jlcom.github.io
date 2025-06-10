@@ -16,14 +16,13 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "/jose.pdf", title: "CV"}
-  - {title: "R data analysis and maps"}
-  - {title: "blog", file: "/blog.md"}
+  - {file: "/jose.pdf", title: "CV", icon: home}
+  - {title: "R data analysis and maps", url: "https://www.youtube.com/@ecodr9010"}
+  - {title: "Blog", file: "/blog.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: "Mail", icon: envelope, url: "mailto:jlcom7@gmail.com"}
   - {title: "Github", icon: github, url: "https://github.com/jlcom"}
-  - {title: "Instagram", name: Instagram, id: instagram, unicode: f109 url: "https://www.instagram.com/joselcombita/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
