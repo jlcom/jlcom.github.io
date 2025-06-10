@@ -20,9 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: About me, icon: address-card}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:jlcom7@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/jlcom"}
-  - {title: Instagram, icon: Instagram, unicode: f109, url: "https://www.instagram.com/joselcombita/"}
+  - {title: "Mail", icon: envelope, url: "mailto:jlcom7@gmail.com"}
+  - {title: "Github", icon: github, url: "https://github.com/jlcom"}
+  - {title: "Instagram", icon: IG, url: "https://www.instagram.com/joselcombita/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
