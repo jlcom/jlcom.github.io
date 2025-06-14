@@ -25,6 +25,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: "Mail", icon: envelope, url: "mailto:jlcom7@gmail.com"}
   - {title: "Github", icon: github, url: "https://github.com/jlcom"}
   - {title: "X", icon: twitter, url: "https://x.com/jlcomb"}
+  - {title: "Instagram", icon: instagram, url: "https://www.instagram.com/joselcombita/"}
+
   
   
 
