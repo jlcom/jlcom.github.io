@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", url: "JoseLuisCombita_CV.pdf"}
+  - {title: "CV", url: "JoseLuisCombita_CV.pdf", target: "_blank"}
   - {title: "About", file: "about.md"}
   - {title: "R for Ecology", url: "https://www.youtube.com/@ecodr9010"}
   - {title: "Blog", file: "blog.md"}
