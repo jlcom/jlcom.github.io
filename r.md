@@ -31,7 +31,7 @@ You can download the example R script used in this section:
 
 ### Example code (R)
 
-```r
+```{r}
 library(vegan)
 data(dune)
 diversity(dune, index = "shannon")
