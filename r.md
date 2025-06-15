@@ -35,7 +35,7 @@ You can download the example R script used in this section:
 library(vegan)
 data(dune)
 diversity(dune, index = "shannon")
-
+---
 ---
 
 ## 🗺️ Mapping with `tmap` and Spatial Data
