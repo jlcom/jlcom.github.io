@@ -37,6 +37,8 @@ data(dune)
 diversity(dune, index = "shannon")
 ---
 
+---
+
 ## 🗺️ Mapping with `tmap` and Spatial Data
 
 Learn how to:
