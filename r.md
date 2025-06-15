@@ -23,6 +23,12 @@ Explore how to calculate and visualize biodiversity indices like:
 
 👉 *Coming soon: downloadable R scripts and example datasets.*
 
+## 🧬 Example Script: Shannon Diversity in R
+
+You can download the example R script used in this section:
+
+[⬇️ Download diversity_vegan.R](diversity_vegan.R)
+
 ---
 
 ## 🗺️ Mapping with `tmap` and Spatial Data
