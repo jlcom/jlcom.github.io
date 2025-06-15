@@ -29,6 +29,12 @@ You can download the example R script used in this section:
 
 [⬇️ Download diversity_vegan.R](diversity_vegan.R)
 
+```r
+library(vegan)
+data(dune)
+diversity(dune, index = "shannon")
+```
+
 ---
 
 ## 🗺️ Mapping with `tmap` and Spatial Data
