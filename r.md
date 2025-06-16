@@ -35,6 +35,8 @@ library(vegan)
 data(dune)
 diversity(dune, index = "shannon")
 ```
+```markdown
+![Diversity plot example](assets/diversity_plot.png)
 
 ---
 
