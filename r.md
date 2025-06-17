@@ -36,7 +36,7 @@ data(dune)
 diversity(dune, index = "shannon")
 ```
 ```markdown
-![Diversity plot example](assets/diversity_plot.png)
+![Diversity plot example](assets/images/curv1.png)
 
 ---
 
