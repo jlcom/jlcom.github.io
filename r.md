@@ -35,7 +35,13 @@ library(vegan)
 data(dune)
 diversity(dune, index = "shannon")
 ```
-```markdown
+
+### Specie accumulation curve with vegan
+```r
+data("dune")
+sac <- specaccum(dune)
+plot(sac, ci.type="polygon", ci.col="yellow")
+```
 ![Diversity plot example](assets/images/curv1.png)
 
 ---
