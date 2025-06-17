@@ -36,7 +36,7 @@ data(dune)
 diversity(dune, index = "shannon")
 ```
 
-### Specie accumulation curve with vegan
+### Specie accumulation curve using the vegan package
 ```r
 data("dune")
 sac <- specaccum(dune)
