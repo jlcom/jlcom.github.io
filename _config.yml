@@ -1,6 +1,6 @@
 title: "José L. Cómbita"
 author: "José L. Cómbita"
-description: "Independent Researcher"
+description: "Independent Researcher | Biologist | Communities and Landscape Ecology"
 permalink: /:title/
 lang: "en" # English language
 excerpt_separator: "\n\n\n"
@@ -13,13 +13,14 @@ show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
 
-# Menu
+# Menu (English)
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", url: "Cv Biodiversity.pdf", target = "_blank"}
   - {title: "About", file: "about.md"}
   - {title: "R for Ecology", file: "r.md"}
+  - {title: "CV", url: "Cv Biodiversity.pdf", target = "_blank"}
   - {title: "Blog", file: "blog.md"}
+  - {title: "Español 🇪🇸", url: "es/index.html"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: "Mail", icon: envelope, url: "mailto:jlcom7@gmail.com"}
@@ -29,7 +30,6 @@ external:                  # shows a footer with social links - for available ic
 
   
   
-
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
