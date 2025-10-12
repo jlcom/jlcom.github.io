@@ -1,4 +1,7 @@
-## Sobre mí
+---
+title: "Sobre mí"
+layout: page
+---
 
 Soy **José L. Cómbita**, biólogo y Magíster en Ciencias con experiencia en **ecología de comunidades y del paisaje**. Mi trabajo se enfoca en analizar los efectos de la deforestación y los gradientes ambientales sobre la biodiversidad, especialmente en ecosistemas tropicales.
 
