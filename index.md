@@ -1,9 +1,12 @@
 ---
-layout: page
-title: ""
+title: "José L. Cómbita"
+layout: home
 ---
-I'm José L. Cómbita, a biologist and M.Sc. in Sciences specialized in community and landscape ecology. I explore biodiversity patterns across environmental gradients using fieldwork and data analysis in R.
 
-Soy José L. Cómbita, biólogo y Magíster en Ciencias, especializado en ecología de comunidades y del paisaje. Estudio patrones de biodiversidad en gradientes ambientales mediante trabajo de campo y análisis de datos en R.
+Welcome to my personal website.  
+I’m **José L. Cómbita**, a biologist and M.Sc. in Sciences specializing in **community and landscape ecology**.  
+My work focuses on understanding the effects of **deforestation and environmental gradients** on biodiversity, mainly in tropical ecosystems.
 
+Explore my projects in ecological data analysis, R-based visualization, and biodiversity monitoring.
 
+[Español 🇪🇸](es/index.html)
