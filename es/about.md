@@ -14,4 +14,4 @@ Tengo experiencia profesional en:
 
 Actualmente desarrollo proyectos independientes y creo contenido abierto sobre análisis y visualización de datos ecológicos.
 
-[English](about.html)
+[English](../about.html)
