@@ -9,5 +9,5 @@ Mi trabajo se centra en comprender los efectos de la **deforestación y los grad
 
 Explora mis proyectos sobre análisis de datos ecológicos, visualización en R y monitoreo de biodiversidad.
 
-[English 🇬🇧](../index.html)
+[English](../index.html)
 
