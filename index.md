@@ -9,4 +9,4 @@ My work focuses on understanding the effects of **deforestation and environmenta
 
 Explore my projects in ecological data analysis, R-based visualization, and biodiversity monitoring.
 
-[Español 🇪🇸](es/index.html)
+[Español](es/index.html)
