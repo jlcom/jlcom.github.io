@@ -16,4 +16,4 @@ I have professional experience in:
 
 I'm currently working on independent research projects and creating open content related to ecological data analysis and visualization.
 
-[Español](es/about.html)
+[Español](../es/about.html)
