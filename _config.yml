@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "R for Ecology", file: "r.md"}
   - {title: "CV", url: "Cv Biodiversity.pdf", target = "_blank"}
   - {title: "Blog", file: "blog.md"}
-  - {title: "Español", url: "Español.md"}
+  - {title: "Español", file: "Español.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: "Mail", icon: envelope, url: "mailto:jlcom7@gmail.com"}
