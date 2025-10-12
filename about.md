@@ -15,3 +15,5 @@ I have professional experience in:
 - Scientific research and consulting in Colombia and Mexico
 
 I'm currently working on independent research projects and creating open content related to ecological data analysis and visualization.
+
+[Español](../about.html)
