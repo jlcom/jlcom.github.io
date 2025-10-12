@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Español"
+---
+
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
