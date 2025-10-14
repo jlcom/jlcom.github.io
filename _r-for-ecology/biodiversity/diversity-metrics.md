@@ -3,4 +3,5 @@ title: "Diversity metrics in R"
 category: "Biodiversity"
 ---
 
-Learn how to calculate species richness, Shannon, Simpson, and beta diversity using base R and the vegan package.
+Learn how to calculate and visualize alpha, beta, and gamma diversity using **vegan** and **base R**.  
+Examples include richness, Shannon, and Simpson indices.
