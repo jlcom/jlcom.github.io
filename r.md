@@ -3,17 +3,14 @@ layout: default
 title: "R for Ecology"
 ---
 
-<h2>R for Ecology</h2>
+{% assign groups = site.r-for-ecology | group_by: "category" %}
+{% for group in groups %}
+  <h3>{{ group.name }}</h3>
+  <ul>
+    {% for item in group.items %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
 
-{% assign items = site.r-for-ecology | sort: "title" %}
-<ul>
-  {% for item in items %}
-    <li>
-      <a href="{{ item.url }}">{{ item.title }}</a>
-      {% if item.category %}
-        — <em>{{ item.category }}</em>
-      {% endif %}
-    </li>
-  {% endfor %}
-</ul>
 
