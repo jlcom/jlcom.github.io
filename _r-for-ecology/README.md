@@ -1,6 +1,6 @@
 ---
-title: "R for Ecology section"
+title: "README"
+published: false
 ---
 
-This folder stores thematic pages about ecological data analysis in R.
-
+Internal note: This folder contains all thematic pages for the R for Ecology section.
