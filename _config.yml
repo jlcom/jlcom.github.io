@@ -27,7 +27,10 @@ external:                  # shows a footer with social links - for available ic
   - {title: "X", icon: twitter, url: "https://x.com/jlcomb"}
   - {title: "Instagram", icon: instagram, url: "https://www.instagram.com/joselcombita/"}
 
-  
+collections:
+  r-for-ecology:
+    output: true
+    permalink: /r-for-ecology/:path/
   
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
