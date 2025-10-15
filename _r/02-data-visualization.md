@@ -22,4 +22,5 @@ Example:
 species <- c("Canis", "Panthera", "Ateles")
 abundance <- c(5, 3, 8)
 barplot(abundance, names.arg = species, col = "forestgreen", main = "Species Abundance")
+```
 
