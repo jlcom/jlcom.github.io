@@ -11,5 +11,5 @@ In this tutorial, we’ll go through basic commands, importing data, and prepari
 # Example
 data <- read.csv("data/species.csv")
 summary(data)
-
+```
 By the end of this lesson, you’ll know how to load and explore ecological datasets.
