@@ -1,4 +1,8 @@
 
+---
+
+### `_r/02-data-visualization.md`
+
 ```markdown
 ---
 title: "Data Visualization in R"
@@ -22,5 +26,3 @@ Example:
 species <- c("Canis", "Panthera", "Ateles")
 abundance <- c(5, 3, 8)
 barplot(abundance, names.arg = species, col = "forestgreen", main = "Species Abundance")
-```
-
