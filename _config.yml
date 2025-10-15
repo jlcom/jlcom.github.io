@@ -31,7 +31,13 @@ collections:
   r:
     output: true
     permalink: /r/:path/
-  
+
+sass:
+  style: compressed
+
+include:
+  - assets
+
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
