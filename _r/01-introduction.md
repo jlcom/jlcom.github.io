@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Introduction to R for Ecologists"
 description: "Learn how to use R for ecological data management and analysis."
 ---
