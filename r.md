@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "R for Ecology"
-permalink: /_r/
+permalink: /r/
 ---
 
 # 🌿 R for Ecology
@@ -14,7 +14,7 @@ Here you’ll find short tutorials and examples focused on biodiversity, mapping
 ## 📘 1. Introduction to R for Ecologists
 Learn the basics of R — installation, objects, syntax, and working with data frames.
 
-👉 [Go to module](01-introduction/)
+👉 [Go to module](_r/01-introduction/)
 
 ---
 
