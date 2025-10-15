@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "R for Ecology"
-permalink: /r/
+permalink: /_r/
 ---
 
 # 🌿 R for Ecology
