@@ -14,21 +14,21 @@ Here you’ll find short tutorials and examples focused on biodiversity, mapping
 ## 📘 1. Introduction to R for Ecologists
 Learn the basics of R — installation, objects, syntax, and working with data frames.
 
-👉 [Go to module](r/01-introduction/)
+👉 [Go to module](01-introduction/)
 
 ---
 
 ## 🎨 2. Data Visualization in R
 Explore how to create beautiful ecological plots with **base R** and **ggplot2**.
 
-👉 [Go to module](r/02-data-visualization/)
+👉 [Go to module](02-data-visualization/)
 
 ---
 
 ## 🌱 3. Diversity Analysis
 Compute and interpret **diversity indices**, **rarefaction**, and **beta diversity** in R.
 
-👉 [Go to module](r/03-diversity-analysis/)
+👉 [Go to module](03-diversity-analysis/)
 
 ---
 
