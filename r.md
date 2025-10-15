@@ -1,28 +1,19 @@
 ---
 layout: page
-title: "R for Ecology"
+title: "R for Ecology (diagnóstico)"
 permalink: /r/
 ---
 
-# 🌿 R for Ecology — Online Course
+# Diagnóstico R for Ecology
 
-Learn how to use **R** for ecological data analysis, biodiversity research, and spatial visualization.  
-This course is designed for biologists, ecologists, and conservationists who want to enhance their data skills.
+**Items en la colección `_r/`:** {{ site.r | size }}
 
----
-
-## 📘 Course Structure
-
-Below you can find all available modules, ordered by topic:
-
-| # | Module | Description |
-|:-:|:--------|:-------------|
-{% assign lessons = site.r | sort: 'path' %}
-{% for lesson in lessons %}
-| {{ forloop.index }} | [{{ lesson.title }}]({{ lesson.url }}) | {{ lesson.excerpt | strip_html | truncatewords: 20 }} |
+{% if site.r | size > 0 %}
+## Listado detectado
+{% for item in site.r %}
+- Título: **{{ item.title | default: "(sin title)" }}** — URL: `{{ item.url }}` — Path: `{{ item.path }}`
 {% endfor %}
-
----
-
-> 💡 More lessons will be added soon.  
-> Follow the [GitHub repository](https://github.com/jlcom) for code examples and datasets.
+{% else %}
+> No se encontraron archivos en la colección `site.r`.  
+> Revisa que tus archivos estén en la carpeta `_r/` (con guion bajo) y que cada archivo tenga YAML front matter (`---` con `title:`).
+{% endif %}
