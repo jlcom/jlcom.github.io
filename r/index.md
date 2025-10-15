@@ -11,12 +11,12 @@ Here you'll find materials organized by topic — each module includes examples,
 ---
 
 <div class="cards">
-{% assign folders = site.pages | where_exp: "page", "page.path contains 'r-for-ecology/' and page.name == 'README.md'" %}
-{% for folder in folders %}
+{% assign pages = site.pages | where_exp: "page", "page.path contains '_r-for-ecology/' and page.extname == '.md'" %}
+{% for page in pages %}
   <div class="card">
-    <h3>📘 {{ folder.title | default: folder.url | split: '/' | last | capitalize }}</h3>
-    <p>{{ folder.description | default: "Explore " | append: (folder.title | default: folder.url | split: '/' | last | capitalize) }}</p>
-    <a href="{{ folder.url }}">→ Go to {{ folder.title | default: folder.url | split: '/' | last | capitalize }}</a>
+    <h3>📘 {{ page.title | default: page.name | split: '.' | first | replace: '-', ' ' | capitalize }}</h3>
+    <p>{{ page.description | default: "Explore " | append: (page.title | default: page.name | split: '.' | first | replace: '-', ' ' | capitalize) }}</p>
+    <a href="{{ page.url }}">→ Go to {{ page.title | default: page.name | split: '.' | first | replace: '-', ' ' | capitalize }}</a>
   </div>
 {% endfor %}
 </div>
