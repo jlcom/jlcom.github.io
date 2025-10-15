@@ -6,58 +6,31 @@ permalink: /r/
 
 # 🌿 R for Ecology
 
-Welcome to this interactive section where we explore **R programming for ecological data analysis**.  
-Each module includes short tutorials, example datasets, and practical exercises.
+Welcome to this section dedicated to using **R for ecological data analysis**.  
+Here you’ll find short tutorials and examples focused on biodiversity, mapping, and statistics.
 
 ---
 
-<div class="modules">
-{% for item in site.r %}
-  <div class="module">
-    <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
-    <p>{{ item.description | default: "Explore this module to learn more about ecology in R." }}</p>
-    <a class="btn" href="{{ item.url }}">Open module →</a>
-  </div>
-{% endfor %}
+## 📘 1. Introduction to R for Ecologists
+Learn the basics of R — installation, objects, syntax, and working with data frames.
 
-{% if site.r | size == 0 %}
-  <p>No modules found. Add Markdown files inside the <code>_r/</code> folder.</p>
-{% endif %}
-</div>
+👉 [Go to module](r/01-introduction/)
 
-<style>
-.modules {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.5rem;
-  margin-top: 2rem;
-}
-.module {
-  border: 1px solid #ddd;
-  border-radius: 12px;
-  padding: 1.5rem;
-  background-color: #f9f9f9;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-.module:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 6px 12px rgba(0,0,0,0.1);
-}
-.module h2 {
-  margin-top: 0;
-}
-.module .btn {
-  display: inline-block;
-  margin-top: 0.8rem;
-  padding: 0.4rem 0.8rem;
-  background-color: #007acc;
-  color: white;
-  border-radius: 6px;
-  text-decoration: none;
-  font-weight: 600;
-}
-.module .btn:hover {
-  background-color: #005fa3;
-}
-</style>
+---
+
+## 🎨 2. Data Visualization in R
+Explore how to create beautiful ecological plots with **base R** and **ggplot2**.
+
+👉 [Go to module](r/02-data-visualization/)
+
+---
+
+## 🌱 3. Diversity Analysis
+Compute and interpret **diversity indices**, **rarefaction**, and **beta diversity** in R.
+
+👉 [Go to module](r/03-diversity-analysis/)
+
+---
+
+### 💡 Tip
+Each module includes example datasets and code that you can reproduce step by step in RStudio.
