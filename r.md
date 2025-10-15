@@ -1,19 +1,25 @@
 ---
 layout: page
-title: "R for Ecology (diagnóstico)"
+title: "R for Ecology"
 permalink: /r/
 ---
 
-# Diagnóstico R for Ecology
+# 🌿 R for Ecology
 
-**Items en la colección `_r/`:** {{ site.r | size }}
+Below you can find all available modules, ordered by topic:
 
-{% if site.r | size > 0 %}
-## Listado detectado
+| # | Module | Description |
+|:-:|:--------|:-------------|
+{% assign i = 1 %}
 {% for item in site.r %}
-- Título: **{{ item.title | default: "(sin title)" }}** — URL: `{{ item.url }}` — Path: `{{ item.path }}`
+| {{ i }} | [{{ item.title | default: "(no title)" }}]({{ item.url }}) | {{ item.description | default: "No description provided." }} |
+{% assign i = i | plus: 1 %}
 {% endfor %}
-{% else %}
-> No se encontraron archivos en la colección `site.r`.  
-> Revisa que tus archivos estén en la carpeta `_r/` (con guion bajo) y que cada archivo tenga YAML front matter (`---` con `title:`).
+
+{% if site.r | size == 0 %}
+| – | _No modules found_ | Please add Markdown files in the **_r/** folder, each with a `title:` in its front matter. |
 {% endif %}
+
+---
+
+> 🧭 Each module includes examples, code, and explanations for ecological data analysis in **R**.
