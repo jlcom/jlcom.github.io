@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "01.1 - Introduction to Biodiversity Data in R"
+title: "Introduction to Biodiversity Data in R"
 category: "01. Data Management"
-order: 1
+order: 2
 ---
 
 # 🧭 Introduction to R for Ecologists
