@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Data Visualization in R"
+order: 1
 ---
 
 # 🎨 Data Visualization in R
