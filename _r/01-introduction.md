@@ -1,15 +1,20 @@
 ---
-layout: post
 title: "Introduction to R for Ecologists"
-date: 2025-10-15
+description: "Learn how to use R for ecological data management and analysis."
 ---
 
-R is a powerful tool for ecological data analysis and visualization.  
-In this tutorial, we’ll go through basic commands, importing data, and preparing your workspace.
+# 🧭 Introduction to R for Ecologists
+
+In this module, you'll learn:
+
+- What R is and why it's powerful for ecology.
+- How to install R and RStudio.
+- Basic syntax (objects, vectors, data frames).
+- Loading and inspecting ecological datasets.
+
+Try running these commands in your R console:
 
 ```r
-# Example
-data <- read.csv("data/species.csv")
-summary(data)
-```
-By the end of this lesson, you’ll know how to load and explore ecological datasets.
+# Create a simple vector
+species <- c("Canis lupus", "Panthera onca", "Ateles belzebuth")
+length(species)
