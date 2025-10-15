@@ -1,0 +1,25 @@
+```html
+<hr>
+
+<div style="display:flex; justify-content:space-between; margin-top:20px;">
+  {% assign lessons = site.r | sort: 'path' %}
+  {% for lesson in lessons %}
+    {% if lesson.url == page.url %}
+      {% assign index = forloop.index0 %}
+      {% assign prev = lessons[index | minus: 1] %}
+      {% assign next = lessons[index | plus: 1] %}
+    {% endif %}
+  {% endfor %}
+
+  <div>
+    {% if prev %}
+      <a href="{{ prev.url }}">⬅ Previous: {{ prev.title }}</a>
+    {% endif %}
+  </div>
+
+  <div>
+    {% if next %}
+      <a href="{{ next.url }}">Next: {{ next.title }} ➡</a>
+    {% endif %}
+  </div>
+</div>
