@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Introduction to R for Ecologists"
-description: "Learn how to use R for ecological data management and analysis."
+title: "01.1 - Introduction to Biodiversity Data in R"
+category: "01. Data Management"
+order: 1
 ---
 
 # 🧭 Introduction to R for Ecologists
