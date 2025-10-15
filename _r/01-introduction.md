@@ -19,3 +19,4 @@ Try running these commands in your R console:
 # Create a simple vector
 species <- c("Canis lupus", "Panthera onca", "Ateles belzebuth")
 length(species)
+```
