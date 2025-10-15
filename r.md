@@ -4,20 +4,25 @@ title: "R for Ecology"
 permalink: /r/
 ---
 
-# R for Ecology 🌿
+# 🌿 R for Ecology — Online Course
 
-Welcome to the **R for Ecology** section!  
-Here you'll find tutorials, practical examples, and workflows focused on using **R** for biodiversity analysis, community ecology, and landscape ecology.
+Learn how to use **R** for ecological data analysis, biodiversity research, and spatial visualization.  
+This course is designed for biologists, ecologists, and conservationists who want to enhance their data skills.
 
 ---
 
-## 📚 Tutorials
+## 📘 Course Structure
 
-{% for post in site.r %}
-- [{{ post.title }}]({{ post.url }})
-  <br> *{{ post.excerpt | strip_html | truncatewords: 20 }}*
+Below you can find all available modules, ordered by topic:
+
+| # | Module | Description |
+|:-:|:--------|:-------------|
+{% assign lessons = site.r | sort: 'path' %}
+{% for lesson in lessons %}
+| {{ forloop.index }} | [{{ lesson.title }}]({{ lesson.url }}) | {{ lesson.excerpt | strip_html | truncatewords: 20 }} |
 {% endfor %}
 
 ---
 
-> 💡 New tutorials are added regularly. Stay tuned and check the [GitHub repository](https://github.com/jlcom) for code and datasets.
+> 💡 More lessons will be added soon.  
+> Follow the [GitHub repository](https://github.com/jlcom) for code examples and datasets.
