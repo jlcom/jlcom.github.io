@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "01. Calculating Diversity Indices"
+title: "Calculating Diversity Indices"
 category: "Data Analysis"
-order: 1
+order: 4
 permalink: /r/analysis/diversity-indices/
 ---
 
