@@ -1,9 +1,4 @@
 ---
-
-### `_r/mapping/01_intro_to_tmap.md`
-
-```yaml
----
 layout: post
 title: "01. Introduction to tmap"
 category: "Mapping (GIS)"
