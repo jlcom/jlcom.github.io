@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "R for Ecology"
+title: " "
 permalink: /r/
 ---
 
