@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "01. Base Graphics in R"
+title: "Base Graphics in R"
 category: "Data Visualization in R"
-order: 1
+order: 2
 permalink: /r/visualization/base-graphics/
 ---
 
