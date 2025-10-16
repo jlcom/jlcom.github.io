@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "01. Introduction to R"
+title: "Introduction to R"
 category: "R Base"
 order: 1
 permalink: /r/base/intro-to-r/
