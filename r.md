@@ -3,9 +3,6 @@ layout: page
 title: " R for Ecology 🌿 "
 permalink: /r/
 ---
-
-# R for Ecology 🌿
-
 Welcome to the **R for Ecology** learning space.  
 Explore the sections below — each one leads to a topic area with several tutorials.
 
