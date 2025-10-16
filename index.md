@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "José L. Cómbita"
 layout: home
 ---
