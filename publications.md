@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 layout: page
+mathjax: true
 ---
 
 Below is a selection of my **peer-reviewed articles** and **book chapters**.  
