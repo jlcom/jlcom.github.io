@@ -9,9 +9,9 @@ Click on each title to see the abstract and download links.
 ---
 
 ### 🧩 2025 — *Biodiversity and Conservation*
-#### [Negative impact of deforestation and mammal defaunation on dung beetle diversity and biomass](https://doi.org/10.1007/s10531-025-XXXXX)
-**Authors:** José Luis Cómbita, Co-authors  
-**DOI:** [10.1007/s10531-025-XXXXX](https://doi.org/10.1007/s10531-025-XXXXX)
+#### [Negative impact of deforestation and mammal defaunation on dung beetle diversity and biomass](https://www.researchgate.net/publication/396235816_Negative_impact_of_deforestation_and_mammal_defaunation_on_dung_beetle_diversity_and_biomass_a_landscape-scale_approach)
+**Please cite this as follows:** Cómbita, J.L., Arroyo-Rodríguez, V., Villalobos, F. et al. Negative impact of deforestation and mammal defaunation on dung beetle diversity and biomass: a landscape–scale approach. Biodivers Conserv (2025). https://doi.org/10.1007/s10531-025-03181-z  
+**DOI:** [10.1007/s10531-025-03181-z](https://doi.org/10.1007/s10531-025-03181-z)
 
 <details>
   <summary><strong>📘 Abstract (click to expand)</strong></summary>
