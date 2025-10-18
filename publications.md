@@ -22,7 +22,7 @@ Click on each title to see the abstract and download links.
   - Complementary roles of forest cover and fauna integrity  
   - Multi-scale analysis combining trap and landscape levels  
 
-📄 [Download PDF](assets/pdfs/2025_Biodiversity_Article.pdf)
+📄 [Download PDF](https://www.researchgate.net/publication/396235816_Negative_impact_of_deforestation_and_mammal_defaunation_on_dung_beetle_diversity_and_biomass_a_landscape-scale_approach)
 
 ---
 
