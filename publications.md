@@ -9,11 +9,9 @@ Click on each title to find out more.
 
 ---
 ### 🧩 2025 — *Biodiversity and Conservation*
-#### [Negative impact of deforestation and mammal defaunation on dung beetle diversity and biomass: a landscape–scale approach](https://www.researchgate.net/publication/396235816_Negative_impact_of_deforestation_and_mammal_defaunation_on_dung_beetle_diversity_and_biomass_a_landscape-scale_approach)
-
+#### [Negative impact of deforestation and mammal defaunation on dung beetle diversity and biomass: a landscape–scale approach](https://link.springer.com/epdf/10.1007/s10531-025-03181-z?sharing_token=Ph9WJzmD-vyPoixZClJkpve4RwlQNchNByi7wbcMAY5B0YCdq1Cn_9m64l8cPmpP3ZMvbPdnnW3uPd_7mqsYI8zaZ7paE8BxZD71BIs6svo2-5Z1Oja-GjqdvjRlV543CIaf94Q_w8ZVX4sdneaeP899cAHRIg7jw_-89Ktld3I%3D)
 !["Fig.1"](/assets/images/CHIAPAS_plots_mc1_2.1.png)
 📍 Lacandona Rainforest, Chiapas
-
  <details>
   <summary><strong>📘 Abstract (click to expand)</strong></summary>
 <div style="text-align: justify;">
@@ -26,8 +24,7 @@ Click on each title to find out more.
 !["Fig.2"](/assets/images/Figure_2_2_CI.png)
 Relationship between dung beetle species richness and total biomass with deforestation (a, c) and defaunation (b, d).
 
-**Please cite this as follows:** Cómbita, J.L., Arroyo-Rodríguez, V., Villalobos, F. et al. Negative impact of deforestation and mammal defaunation on dung beetle diversity and biomass: a landscape–scale approach. Biodivers Conserv (2025). https://doi.org/10.1007/s10531-025-03181-z  
-**DOI:** [10.1007/s10531-025-03181-z](https://doi.org/10.1007/s10531-025-03181-z)
+**Please cite this as follows:** Cómbita, J.L., Arroyo-Rodríguez, V., Villalobos, F. et al. Negative impact of deforestation and mammal defaunation on dung beetle diversity and biomass: a landscape–scale approach. Biodivers Conserv (2025). [https://doi.org/10.1007/s10531-025-03181-z](https://doi.org/10.1007/s10531-025-03181-z)
 
 📄 [Download/Request full-text PDF](https://www.researchgate.net/publication/396235816_Negative_impact_of_deforestation_and_mammal_defaunation_on_dung_beetle_diversity_and_biomass_a_landscape-scale_approach)
 
