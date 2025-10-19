@@ -30,22 +30,22 @@ Relationship between dung beetle species richness and total biomass with defores
 
 ---
 
-### 🦋 2022 — *Journal of Tropical Ecology*
-#### [Deforestation and mammal loss reduce dung beetle diversity across tropical landscapes](#)
-**Authors:** José Luis Cómbita, Co-authors  
-**DOI:** [10.xxxx/jte.2022.###](#)
+### 🦋 2021 — *Biotropica*
+#### [Environmental variation associated with topography explains butterfly diversity along a tropical elevation gradient](https://onlinelibrary.wiley.com/doi/epdf/10.1111/btp.13040)
+!["Fig.1"](/assets/images/Butterflies/Figure_1.tiff)
+📍 Mesa de Los Santos, Santander-Colombia
 
 <details>
   <summary><strong>📘 Abstract (click to expand)</strong></summary>
-
-  We assessed the combined influence of forest cover and mammal defaunation on dung beetle diversity across multiple tropical sites...
+<div style="text-align: justify;">
+  Few studies have evaluated the role of topography on the diversity patterns of biological communities along elevation gradients. We evaluated the influence of microclimate and vegetation structure associated with topographic variation on the richness and composition of species of different families of butterflies on a mountain located in a dry enclave (Chicamocha River Canyon) in the northern Andes, Colombia. We captured butterflies over four months at 18 elevations (300 to 1500 m a.s.l.) in two topographic positions (riverbed and hillslope) using an entomological net and traps baited with fermented fruit. In general, butterfly richness increased with elevation in both topographic positions. However, the richness–elevation relationship changed with butterfly family. The riverbed and hillslope sites host different assemblages of butterflies, and this pattern that was consistent for most families. In the riverbed, two sets of species are recognized along the elevation gradient (one below 700 m a.s.l. and the other above 1000 m a.s.l.), mainly owing to species replacement. On the hillslopes, there was no clear pattern of grouping associated with elevation. Microclimate differences between the riverbed and hillslope sites along the elevation gradient were related to the vegetation structure and explained the variation in butterfly species composition. Our results highlight the role of topography not only by explaining the response of species richness and composition to environmental variation determined by elevation, but also as a factor that must be considered in the planning and management of biodiversity conservation in the mountains. Abstract in Spanish is available with online material. </div> </details>
   
   **Highlights**
-  - Landscape-scale biodiversity assessment  
-  - Evidence of cascading effects on ecosystem functions  
+  - **Butterfly richness increased with elevation**, but the relationship varied by butterfly family, showing distinct ecological responses among groups.
+  - **Topography (riverbed vs. hillslope) strongly influenced butterfly composition**, with clear species turnover along the elevation gradient in riverbed sites but not on hillslopes.
+  - **Microclimate and vegetation structure linked to topographic variation explained changes in butterfly diversity**, underscoring topography as a key factor for biodiversity conservation planning in mountain ecosystems.  
 
-  📄 [Download PDF](assets/pdfs/2022_Deforestation_Article.pdf)
-</details>
+  📄 [Download/Request full-text PDF](https://www.researchgate.net/publication/356496063_Environmental_variation_associated_with_topography_explains_butterfly_diversity_along_a_tropical_elevation_gradient)
 
 ---
 
