@@ -21,9 +21,11 @@ Click on each title to see the abstract and download links.
   Tropical forests and their fauna are being lost at alarming rates, causing important cascading effects that can limit ecosystem functioning. A significant cascading effect relates to dung beetles, which depend on forests and the excrement of terrestrial mammals for feeding and reproduction, making them particularly vulnerable to both deforestation and defaunation. While recent studies have explored the influence of forest structure and mammal activity on dung beetle communities in fragmented landscapes, to our knowledge, no study to date has simultaneously tested the combined effects of deforestation and defaunation on dung beetle species richness and body mass across a continuous landscape–scale gradient of forest loss. We assessed whether and how species richness and body mass of dung beetles relate to deforestation and defaunation across 18 1–km² landscapes in a Mesoamerican biodiversity hotspot. Our results indicated that landscape–scale species richness and body mass of dung beetles decrease in more deforested and defaunated landscapes. Indeed, such a decrease in species richness accelerated in landscapes with < 40% of remaining forest cover, supporting previous extinction thresholds documented for this and other tropical regions. Our findings underscore the importance of stopping deforestation and defaunation in the region, as (i) both factors are crucial to maintaining dung beetle diversity at the landscape scale; and (ii) the remaining forest cover at the regional scale (≈ 40%) falls within our estimated extinction threshold. </div> </details>
 
 **Highlights**
-  - Strong negative effects of forest loss on dung beetle biomass  
-  - Complementary roles of forest cover and fauna integrity  
-  - Multi-scale analysis combining trap and landscape levels  
+  - **Deforestation and defaunation jointly reduce dung beetle diversity and biomass** across tropical landscapes, revealing strong cascading effects on ecosystem functioning.
+  - **Species richness declines sharply below 40% forest cover**, supporting previously reported extinction thresholds in tropical regions.
+  - **Maintaining at least 40% forest cover and protecting mammal populations** are both essential to sustain dung beetle communities and their ecological roles.
+!["Fig.2"](/assets/images/Figure_2_2_CI.png)
+Relationship between dung beetle species richness and total biomass with deforestation (a, c) and defaunation (b, d).
 
 📄 [Download PDF](https://www.researchgate.net/publication/396235816_Negative_impact_of_deforestation_and_mammal_defaunation_on_dung_beetle_diversity_and_biomass_a_landscape-scale_approach)
 
