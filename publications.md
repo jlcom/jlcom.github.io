@@ -5,7 +5,7 @@ mathjax: true
 ---
 
 Below is a selection of my **peer-reviewed articles** and **book chapters**.  
-Click on each title to see the abstract and download links.
+Click on each title to find out more.
 
 ---
 ### 🧩 2025 — *Biodiversity and Conservation*
@@ -13,9 +13,6 @@ Click on each title to see the abstract and download links.
 
 !["Fig.1"](/assets/images/CHIAPAS_plots_mc1_2.1.png)
 📍 Lacandona Rainforest, Chiapas
-
-**Please cite this as follows:** Cómbita, J.L., Arroyo-Rodríguez, V., Villalobos, F. et al. Negative impact of deforestation and mammal defaunation on dung beetle diversity and biomass: a landscape–scale approach. Biodivers Conserv (2025). https://doi.org/10.1007/s10531-025-03181-z  
-**DOI:** [10.1007/s10531-025-03181-z](https://doi.org/10.1007/s10531-025-03181-z)
 
  <details>
   <summary><strong>📘 Abstract (click to expand)</strong></summary>
@@ -29,7 +26,10 @@ Click on each title to see the abstract and download links.
 !["Fig.2"](/assets/images/Figure_2_2_CI.png)
 Relationship between dung beetle species richness and total biomass with deforestation (a, c) and defaunation (b, d).
 
-📄 [Download PDF](https://www.researchgate.net/publication/396235816_Negative_impact_of_deforestation_and_mammal_defaunation_on_dung_beetle_diversity_and_biomass_a_landscape-scale_approach)
+**Please cite this as follows:** Cómbita, J.L., Arroyo-Rodríguez, V., Villalobos, F. et al. Negative impact of deforestation and mammal defaunation on dung beetle diversity and biomass: a landscape–scale approach. Biodivers Conserv (2025). https://doi.org/10.1007/s10531-025-03181-z  
+**DOI:** [10.1007/s10531-025-03181-z](https://doi.org/10.1007/s10531-025-03181-z)
+
+📄 [Download/Request full-text PDF](https://www.researchgate.net/publication/396235816_Negative_impact_of_deforestation_and_mammal_defaunation_on_dung_beetle_diversity_and_biomass_a_landscape-scale_approach)
 
 ---
 
