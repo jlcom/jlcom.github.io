@@ -10,6 +10,7 @@ Click on each title to see the abstract and download links.
 ---
 ### 🧩 2025 — *Biodiversity and Conservation*
 #### [Negative impact of deforestation and mammal defaunation on dung beetle diversity and biomass: a landscape–scale approach](https://www.researchgate.net/publication/396235816_Negative_impact_of_deforestation_and_mammal_defaunation_on_dung_beetle_diversity_and_biomass_a_landscape-scale_approach)
+
 !["Fig.1"](/assets/images/CHIAPAS_plots_mc1_2.1.png)
 📍 Lacandona Rainforest, Chiapas
 
