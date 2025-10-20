@@ -49,4 +49,4 @@ Relationship between dung beetle species richness and total biomass with defores
 
 ---
 
-🧾 **Citation note:** Full bibliographic references and further publications are also available on [ResearchGate](https://www.researchgate.net/profile/Jose-Luis-Combita) and [ORCID](https://orcid.org/0000-0001-6641-9208).
+🧾 Full bibliographic references and further publications are also available on [ResearchGate](https://www.researchgate.net/profile/Jose-Luis-Combita) and [ORCID](https://orcid.org/0000-0001-6641-9208).
