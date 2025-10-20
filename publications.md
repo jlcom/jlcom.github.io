@@ -32,7 +32,7 @@ Relationship between dung beetle species richness and total biomass with defores
 
 ### 🦋 2021 — *Biotropica*
 #### [Environmental variation associated with topography explains butterfly diversity along a tropical elevation gradient](https://onlinelibrary.wiley.com/doi/epdf/10.1111/btp.13040)
-!["Fig.1"](/assets/images/Butterflies/Figure_1.png)
+!["Fig.1"](/assets/images/Butterflies/Figure_1.jpg)
 📍 Mesa de Los Santos, Santander-Colombia
 
 <details>
