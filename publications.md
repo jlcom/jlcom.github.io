@@ -45,9 +45,9 @@ Relationship between dung beetle species richness and total biomass with defores
   - **Topography (riverbed vs. hillslope) strongly influenced butterfly composition**, with clear species turnover along the elevation gradient in riverbed sites but not on hillslopes.
   - **Microclimate and vegetation structure linked to topographic variation explained changes in butterfly diversity**, underscoring topography as a key factor for biodiversity conservation planning in mountain ecosystems.  
 <p align="center">
-  <img src="/assets/images/Butterflies/Figure_2.png" alt="Fig.1" width="300"/>
-  <img src="/assets/images/Butterflies/Figure_3.png" alt="Fig.2" width="300"/>
-  <img src="/assets/images/Butterflies/Figure_4.png" alt="Fig.3" width="300"/>
+  <img src="/assets/images/Butterflies/Figure_2.jpg" alt="Fig.1" width="300"/>
+  <img src="/assets/images/Butterflies/Figure_3.jpg" alt="Fig.2" width="300"/>
+  <img src="/assets/images/Butterflies/Figure_4.jpg" alt="Fig.3" width="300"/>
 </p>
   📄 [Download/Request full-text PDF](https://www.researchgate.net/publication/356496063_Environmental_variation_associated_with_topography_explains_butterfly_diversity_along_a_tropical_elevation_gradient)
 
