@@ -11,7 +11,7 @@ Click on each title to find out more.
 ### 🧩 2025 — *Biodiversity and Conservation*
 #### [Negative impact of deforestation and mammal defaunation on dung beetle diversity and biomass: a landscape–scale approach](https://link.springer.com/epdf/10.1007/s10531-025-03181-z?sharing_token=Ph9WJzmD-vyPoixZClJkpve4RwlQNchNByi7wbcMAY5B0YCdq1Cn_9m64l8cPmpP3ZMvbPdnnW3uPd_7mqsYI8zaZ7paE8BxZD71BIs6svo2-5Z1Oja-GjqdvjRlV543CIaf94Q_w8ZVX4sdneaeP899cAHRIg7jw_-89Ktld3I%3D)
 !["Fig.1"](/assets/images/CHIAPAS_plots_mc1_2.1.png)
-Fig. 1. 📍 Lacandona Rainforest, Chiapas
+**Fig. 1**. 📍 Lacandona Rainforest, Chiapas
  <details>
   <summary><strong>📘 Abstract (click to expand)</strong></summary>
 <div style="text-align: justify;">
@@ -22,7 +22,7 @@ Fig. 1. 📍 Lacandona Rainforest, Chiapas
   - **Species richness declines sharply below 40% forest cover**, supporting previously reported extinction thresholds in tropical regions.
   - **Maintaining at least 40% forest cover and protecting mammal populations** are both essential to sustain dung beetle communities and their ecological roles.
 !["Fig.2"](/assets/images/Figure_2_2_CI.png)
-Fig. 2. Relationship between dung beetle species richness and total biomass with deforestation (a, c) and defaunation (b, d)
+**Fig. 2**. Relationship between dung beetle species richness and total biomass with deforestation (a, c) and defaunation (b, d)
 
 **Please cite this as follows:** Cómbita, J.L., Arroyo-Rodríguez, V., Villalobos, F. et al. Negative impact of deforestation and mammal defaunation on dung beetle diversity and biomass: a landscape–scale approach. Biodivers Conserv (2025). [https://doi.org/10.1007/s10531-025-03181-z](https://doi.org/10.1007/s10531-025-03181-z)
 
@@ -33,7 +33,7 @@ Fig. 2. Relationship between dung beetle species richness and total biomass with
 ### 🦋 2021 — *Biotropica*
 #### [Environmental variation associated with topography explains butterfly diversity along a tropical elevation gradient](https://onlinelibrary.wiley.com/doi/epdf/10.1111/btp.13040)
 !["Fig.1"](/assets/images/Butterflies/Figure_1.jpg)
-Fig. 1. 📍 Mesa de Los Santos, Santander-Colombia
+**Fig. 1**. 📍 Mesa de Los Santos, Santander-Colombia
 
 <details>
   <summary><strong>📘 Abstract (click to expand)</strong></summary>
@@ -46,11 +46,11 @@ Fig. 1. 📍 Mesa de Los Santos, Santander-Colombia
   - **Microclimate and vegetation structure linked to topographic variation explained changes in butterfly diversity**, underscoring topography as a key factor for biodiversity conservation planning in mountain ecosystems.  
 
 !["Fig.2"](/assets/images/Butterflies/Figure_2.jpg)
-<div style="text-align: justify;">Fig 2. Species richness of all of the butterflies (Papilionoidea, a) and by family. Nymphalidae (b), Riodinidae (c), Hesperiidae (d), Lycaenidae (e), and Pieridae (f) as a function of elevation and topographic position. The lines indicate the mean of the values fitted from the negative binomial model for each one of the topographic positions (RB = riverbed, HS = hillslope)</div>
+<div style="text-align: justify;">**Fig. 2**. Species richness of all of the butterflies (Papilionoidea, a) and by family. Nymphalidae (b), Riodinidae (c), Hesperiidae (d), Lycaenidae (e), and Pieridae (f) as a function of elevation and topographic position. The lines indicate the mean of the values fitted from the negative binomial model for each one of the topographic positions (RB = riverbed, HS = hillslope)</div>
 !["Fig.3"](/assets/images/Butterflies/Figure_3.jpg)
-<div style="text-align: justify;">Fig 3. Box- plot comparing the median of the species richness in each topographic position (RB =riverbed, HS =hillslope) for all of the butterflies (Papilionoidea, a) and for each of the families: Nymphalidae (b), Riodinidae (c), Hesperiidae (d), Lycaenidae (e), and Pieridae (f). The lower and upper bars of the boxes represent the first (q1) and third (q3) quartiles, respectively. The horizontal line within each box corresponds to the median. The upper error bar represents q3 + 1.5(q3– q1) and the lower error bar represents q1– 1.5(q3– q1). Circles denote atypical values. Different letters associated with the bars of the boxes indicate significant differences (Table S2: ANOVA GLM- nb, p <.05)
+<div style="text-align: justify;">**Fig. 3**. Box- plot comparing the median of the species richness in each topographic position (RB =riverbed, HS =hillslope) for all of the butterflies (Papilionoidea, a) and for each of the families: Nymphalidae (b), Riodinidae (c), Hesperiidae (d), Lycaenidae (e), and Pieridae (f). The lower and upper bars of the boxes represent the first (q1) and third (q3) quartiles, respectively. The horizontal line within each box corresponds to the median. The upper error bar represents q3 + 1.5(q3– q1) and the lower error bar represents q1– 1.5(q3– q1). Circles denote atypical values. Different letters associated with the bars of the boxes indicate significant differences (Table S2: ANOVA GLM- nb, p <.05)
 !["Fig.4"](/assets/images/Butterflies/Figure_4.jpg)</div>
-<div style="text-align: justify;">Fig 4. (a) NMDS ordination based on of the total set of SS using species abundance data together with the significant fit (envfit, p <.05) of microclimate and vegetation structure by elevation and topographic position (abbreviations Table 1 and Figure 4b). (b) Goodness of fit (r²) and significance values (P) for each of the fitted variables. The significance value was determined by a permutation procedure (999 permutations). Significant values: *** = p <.001; ** = p <.01; * = p <.05</div>
+<div style="text-align: justify;">**Fig. 4**. (a) NMDS ordination based on of the total set of SS using species abundance data together with the significant fit (envfit, p <.05) of microclimate and vegetation structure by elevation and topographic position (abbreviations Table 1 and Figure 4b). (b) Goodness of fit (r²) and significance values (P) for each of the fitted variables. The significance value was determined by a permutation procedure (999 permutations). Significant values: *** = p <.001; ** = p <.01; * = p <.05</div>
 
   📄 [Download/Request full-text PDF](https://www.researchgate.net/publication/356496063_Environmental_variation_associated_with_topography_explains_butterfly_diversity_along_a_tropical_elevation_gradient)
 
