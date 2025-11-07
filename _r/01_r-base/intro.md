@@ -26,7 +26,7 @@ By the end of this section, you will be able to:
 
 Before diving in, make sure you have installed:
 - **R** (from [CRAN](https://cran.r-project.org/))
-- **RStudio** (optional but [recommended](https://posit.co/downloads/)
+- **RStudio** (optional but [recommended](https://posit.co/downloads/))
 
 Once installed, open RStudio and type:
 
