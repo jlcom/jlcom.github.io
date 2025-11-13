@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "About me"
 layout: page
 ---
-
-## About me
 
 I'm **José L. Cómbita**, a biologist and M.Sc. in Sciences with expertise in **community and landscape ecology**. My research explores the effects of deforestation and environmental gradients on biodiversity patterns, especially in tropical ecosystems.
 
