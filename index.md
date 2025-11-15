@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "José L. Cómbita"
 ---
 
 Welcome to my personal website.  
