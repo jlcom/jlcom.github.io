@@ -29,7 +29,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: "LinkedIn", icon: linkedin, url: "https://www.linkedin.com/in/jos%C3%A9-luis-c%C3%B3mbita-1033b490/"}
   - {title: "Github", icon: github, url: "https://github.com/jlcom"}
   - {title: "ORCID", icon: orcid, url: "https://orcid.org/0000-0001-6641-9208"}
-  - {title: "scholar", icon: google scholar, url: "https://scholar.google.es/citations?user=XmHM9V0AAAAJ&hl=es"}
+  - {title: "Google Scholar", icon: google scholar, url: "https://scholar.google.es/citations?user=XmHM9V0AAAAJ&hl=es"}
 
 
 collections:
