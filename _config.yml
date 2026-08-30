@@ -24,7 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: "Mail", icon: envelope, url: "mailto:jlcom7@gmail.com"}
-  - {title: "X", icon: X, url: "https://x.com/jlcomb"}
+  - {title: "X", icon: x, url: "https://x.com/jlcomb"}
   - {title: "Instagram", icon: instagram, url: "https://www.instagram.com/joselcombita/"}
   - {title: "LinkedIn", icon: linkedin, url: "https://www.linkedin.com/in/jos%C3%A9-luis-c%C3%B3mbita-1033b490/"}
   - {title: "Github", icon: github, url: "https://github.com/jlcom"}
