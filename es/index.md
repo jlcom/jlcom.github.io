@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 Bienvenido a mi página personal.  
