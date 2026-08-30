@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:
   - {title: "Mail", icon: envelope, url: "mailto:jlcom7@gmail.com"}
   - {title: "ORCID", icon: orcid, url: "https://orcid.org/0000-0001-6641-9208"}
-  - {title: "Google Scholar", icon: scholar, url: "https://scholar.google.es/citations?user=XmHM9V0AAAAJ&hl=es"}
+  - {title: "Google Scholar", icon: google, url: "https://scholar.google.es/citations?user=XmHM9V0AAAAJ&hl=es"}
   - {title: "GitHub", icon: github, url: "https://github.com/jlcom"}
   - {title: "LinkedIn", icon: linkedin, url: "https://www.linkedin.com/in/jos%C3%A9-luis-c%C3%B3mbita-1033b490/"}
 
