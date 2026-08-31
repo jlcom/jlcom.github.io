@@ -29,12 +29,11 @@
 
 <header>
   <div class="brand-container">
-    {{ 
+    <a href="{{ '/' | relative_url }}" class="title">
       {{ site.title | escape }}
     </a>
-
     <span class="subtitle">
-      {{ site.subtitle }}
+      {{ site.subtitle | escape }}
     </span>
   </div>
 
