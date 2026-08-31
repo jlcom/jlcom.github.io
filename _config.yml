@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: "About", file: "about.md"}
-  - {title: "R for Ecology", file: "r.md"}
+  - {title: "R", file: "r.md"}
   - {title: "CV", url: "Cv Biodiversity.pdf", target = "_blank"}
   - {title: "Publications", file: "publications.md"}
   - {title: "Blog", file: "blog.md"}
