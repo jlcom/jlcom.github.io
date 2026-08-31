@@ -28,17 +28,9 @@
 {% endif %}
 
 <header>
-  <div>
-    {{ 
-      {{ site.title | escape }}
-    </a>
-    <br>
-    <small>{{ site.subtitle }}</small>
-  </div>
-
+  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
 </header>
-
 
 {{ content }}
 
