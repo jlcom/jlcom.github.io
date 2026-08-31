@@ -36,17 +36,16 @@ nav a
   opacity: .75
   margin-top: .25rem
 
-/* Fuerza la orientación vertical en pantallas pequeñas */
 @media (max-width: 768px) {
   header .brand-container {
     display: flex !important;
     flex-direction: column !important;
-    align-items: flex-start !important; /* Alinea el texto a la izquierda */
-    gap: 6px !important;              /* Controla el espacio entre el nombre y el subtítulo */
+    align-items: flex-start !important;
+    gap: 6px !important;              
   }
 
   header .subtitle {
-    display: block !important;        /* Evita que se pegue al lado del título */
-    width: 100%;                      /* Ocupa todo el ancho disponible */
+    display: block !important;        
+    width: 100%;                      
   }
 }
