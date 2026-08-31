@@ -29,9 +29,14 @@
 
 <header>
   <div class="site-header">
-    <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</on }}</div>
+  {{ 
+    {{ site.title | escape }}
+  </a>
+  <div class="subtitle">
+    {{ site.subtitle }}
   </div>
-  {% include menu.html menu=pages %}
+</div>
+
 </header>
 
 {{ content }}
