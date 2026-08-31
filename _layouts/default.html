@@ -29,15 +29,18 @@
 
 <header>
   <div class="site-header">
-  {{ 
-    {{ site.title | escape }}
-  </a>
-  <div class="subtitle">
-    {{ site.subtitle }}
-  </div>
-</div>
+    {{ 
+      {{ site.title | escape }}
+    </a>
 
+    <div class="subtitle">
+      {{ site.subtitle }}
+    </div>
+  </div>
+
+  {% include menu.html menu=pages %}
 </header>
+
 
 {{ content }}
 
