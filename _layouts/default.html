@@ -28,10 +28,13 @@
 {% endif %}
 
 <header>
-  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
-  <p class="subtitle">{{ site.description | escape }}</p>
+  <div class="brand-container">
+    <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
+    <span class="subtitle">{{ site.description | escape }}</span>
+  </div>
   {% include menu.html menu=pages %}
 </header>
+
 
 {{ content }}
 
