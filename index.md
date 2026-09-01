@@ -38,7 +38,7 @@ My work focuses on understanding the effects of deforestation and environmental 
 [Environmental variation associated with topography explains butterfly diversity along a tropical elevation gradient](https://onlinelibrary.wiley.com/doi/abs/10.1111/btp.13040)
 *Biotropica*.
 
-→ /publications/
+→ (/Publications/)
 
 Explore my projects in ecological data analysis, R-based visualization, and biodiversity monitoring.
 
