@@ -4,7 +4,7 @@ layout: page
 
 Welcome to my academic website.
 
-I'm José L. Cómbita, a biologist and M.Sc. in Sciences specializing in community and landscape ecology.
+I'm José L. Cómbita, a biologist and M.Sc. in Sciences with research interests in community ecology, landscape ecology, biodiversity monitoring and ecological data analysis.
 
 My work focuses on understanding the effects of deforestation and environmental gradients on biodiversity, mainly in tropical ecosystems.
 
