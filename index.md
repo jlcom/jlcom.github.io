@@ -2,7 +2,7 @@
 layout: page
 ---
 
-Welcome to my personal website.
+Welcome to my academic website.
 
 I'm José L. Cómbita, a biologist and M.Sc. in Sciences specializing in community and landscape ecology.
 
