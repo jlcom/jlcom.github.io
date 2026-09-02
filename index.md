@@ -46,13 +46,15 @@ Environmental variation associated with topography explains butterfly diversity 
 
 <h4 style="margin-bottom: 0;">Deforestation and Biodiversity</h4>
 Research on the effects of habitat loss and mammal defaunation on tropical biodiversity using dung beetles and other ecological indicators.
+
 <h4 style="margin-bottom: 0;">Tropical Elevational Gradients</h4>
 Investigation of biodiversity responses to environmental variation across tropical mountain systems.
+
 <h4 style="margin-bottom: 0;">Ecological Data Analysis in R</h4>
 Development of reproducible workflows for ecological statistics, biodiversity metrics and visualization using R.
-<br>
 
-Explore my research, publications and analytical workflows through the sections below.<br>
+
+</h4>Explore my research, publications and analytical workflows through the sections below.<br>
 [Publications](/Publications/)<br>
 [Blog](/Blog/)<br>
 [CV](/CV/)
