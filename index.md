@@ -40,7 +40,7 @@ Environmental variation associated with topography explains butterfly diversity 
 
 ### Featured Projects
 
-## Biodiversity Monitoring
+# Biodiversity Monitoring
 Tools and workflows for biodiversity assessment and ecological monitoring.
 
 ## Ecological Data Analysis in R
