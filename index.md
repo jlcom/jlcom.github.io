@@ -32,13 +32,13 @@ My work focuses on understanding the effects of deforestation and environmental 
 
 **Cómbita J.L. et al. (2025).**
 [Negative impact of deforestation and mammal defaunation on dung beetle diversity and biomass: a landscape–scale approach](https://doi.org/10.1007/s10531-025-03181-z)
-*Biodiversity and Conservation*
+<br>*Biodiversity and Conservation*
 
 **Combita JL et al. (2022).**
 [Environmental variation associated with topography explains butterfly diversity along a tropical elevation gradient](https://onlinelibrary.wiley.com/doi/abs/10.1111/btp.13040)
-*Biotropica*.
+<br>*Biotropica*.
 
-→ (/Publications/)
+[View all publications](/Publications/)
 
 Explore my projects in ecological data analysis, R-based visualization, and biodiversity monitoring.
 
