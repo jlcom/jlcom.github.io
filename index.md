@@ -38,6 +38,17 @@ Negative impact of deforestation and mammal defaunation on dung beetle diversity
 Environmental variation associated with topography explains butterfly diversity along a tropical elevation gradient.
 *Biotropica*.
 
+## Featured Projects
+
+### Biodiversity Monitoring
+Tools and workflows for biodiversity assessment and ecological monitoring.
+
+### Ecological Data Analysis in R
+Reproducible workflows, visualization and statistical analysis for ecological data.
+
+### Community and Landscape Ecology
+Research on biodiversity responses to habitat transformation and environmental gradients.
+
 [Publications](/Publications/)<br>
 [Blog](/Blog/)<br>
 [CV](/CV/)
