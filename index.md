@@ -50,6 +50,7 @@ Research on the effects of habitat loss and mammal defaunation on tropical biodi
 Investigation of biodiversity responses to environmental variation across tropical mountain systems.
 <h4 style="margin-bottom: 0;">Ecological Data Analysis in R</h4>
 Development of reproducible workflows for ecological statistics, biodiversity metrics and visualization using R.
+<br>
 
 Explore my research, publications and analytical workflows through the sections below.<br>
 [Publications](/Publications/)<br>
